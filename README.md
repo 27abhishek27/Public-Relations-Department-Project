@@ -1,7 +1,3 @@
-Absolutely! Based on your [Public Relations Department Project repo](https://github.com/27abhishek27/Public-Relations-Department-Project) and using your preferred format, here’s a full `README.md` file for the project:
-
----
-
 # Public Relations Department Project
 
 ## 📌 Overview
